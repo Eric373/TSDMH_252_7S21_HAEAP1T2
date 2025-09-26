@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMH_252_7S21_HAEAP1T2</string>
+    <string name="t1">Calculadora</string>
+    <string name="t2">Selecciona una opcion</string>
+    <string name="btnsuma">Suma</string>
+    <string name="btnresta">Resta</string>
+    <string name="btndiv">Divicion</string>
+    <string name="btnmult">Multiplicacion</string>
+    <string name="btnpote2">Potencia al cuadrado</string>
+    <string name="btnpoteN">Potencia a la N</string>
+    <string name="btnraiz">Raiz cuadrada</string>
+    <string name="lblnum1">Ingresa el primer numero</string>
+    <string name="lblnum2">Ingresa el segundo numero</string>
+</resources>
